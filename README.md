@@ -36,3 +36,5 @@ sudo apt -y install phpmyadmin
 ** INPUT PASSWORD ** <- INPUT
 ** CONFIRM PASSWORD ** <- INPUT
 ** localhost/phpmyadmin.php ** <- JOIN IN phpMyAdmin
+
+sudo chown -R user /var/www
