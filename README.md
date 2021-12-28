@@ -1,6 +1,6 @@
 # How To Up Web Server
 
-sudo apt update
+```sudo apt update
 sudp apt -upgrade
 
 sudo apt show php
